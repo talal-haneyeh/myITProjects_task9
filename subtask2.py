@@ -19,4 +19,4 @@ if (count == 0):
     
 else:
     print ("count = " + str(count) + "\n min = " + str(min) + "\n sum = " + str(sum) + "\n Avg = " + str(sum/count))
- 
+ # it looks like I learned how to use git today

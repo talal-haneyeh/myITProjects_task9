@@ -10,3 +10,5 @@ while(not((num >= b * b) and (num < a * a))):
 
 q = b*b
 print(q)
+
+# it looks like I learned how to use git today
